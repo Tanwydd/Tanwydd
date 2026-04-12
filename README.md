@@ -56,7 +56,7 @@ Actualmente trabajando en automatización de navegador que pasa desapercibida, b
 ### 🚀 Proyectos Destacados
 
 - [**Phantomime**](#) — Librería Python de automatización de navegador humanizado con stack anti-detección completo. TLS fingerprinting, Canvas/WebGL spoofing, simulación de comportamiento humano. *(próximamente)*
-- [**VoiceID Compare**](#) — Sistema de comparación de voz con precisión forense y detección de deepfakes. Compara dos muestras de audio para verificar identidad del hablante y detecta audio sintético generado por IA.
+- [**VoiceID**](#) — Sistema de comparación de voz con precisión forense y detección de deepfakes. Compara dos muestras de audio para verificar identidad del hablante y detecta audio sintético generado por IA.
 - [**BotFarm**](#) — Plataforma de gestión de bots Python sobre Docker/Podman con dashboard FastAPI + React. Construida para automatización de contact center a escala.
 
 ### 📝 Últimos Artículos
