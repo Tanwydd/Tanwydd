@@ -24,7 +24,7 @@ Currently working on browser automation that blends in, voice biometrics with de
 ### 🚀 Featured Projects
 
 - [**Phantomime**](#) — Humanized browser automation library with full anti-detection stack. TLS fingerprinting, Canvas/WebGL spoofing, human-like behavior simulation. Python + Playwright + curl-cffi. *(coming soon)*
-- [**VoiceID **](#) — Forensic-grade voice comparison and deepfake detection system. Compares two audio samples for speaker identity match and flags AI-generated audio. FastAPI + SpeechBrain + Wav2Vec2.
+- [**VoiceID**](#) — Forensic-grade voice comparison and deepfake detection system. Compares two audio samples for speaker identity match and flags AI-generated audio. FastAPI + SpeechBrain + Wav2Vec2.
 - [**BotFarm**](#) — Docker/Podman-based Python bot management platform with FastAPI + React dashboard. Built for contact center automation at scale.
 
 ### 📝 Latest Articles
