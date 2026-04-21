@@ -30,6 +30,8 @@ Currently working on browser automation that blends in, voice biometrics with de
 ### 📝 Latest Articles
 
 - [Detecting Deepfake Audio in Python: Why the Threshold Matters More Than the Model](https://dev.to/tanwydd/detecting-deepfake-audio-in-python-why-the-threshold-matters-more-than-the-model-3i3l)
+- [Building a Self-Hosted Bot Management Platform with Docker, FastAPI and React](https://dev.to/tanwydd/building-a-self-hosted-bot-management-platform-with-docker-fastapi-and-react-4pdj)
+- [Why Playwright Gets You Blocked Even With Proxies](https://dev.to/tanwydd/why-playwright-gets-you-blocked-even-with-proxies-3h2a)
 
 ### 🤝 Let's Connect
 
@@ -62,6 +64,8 @@ Actualmente trabajando en automatización de navegador que pasa desapercibida, b
 ### 📝 Últimos Artículos
 
 - [Detecting Deepfake Audio in Python: Why the Threshold Matters More Than the Model](https://dev.to/tanwydd/detecting-deepfake-audio-in-python-why-the-threshold-matters-more-than-the-model-3i3l)
+- [Building a Self-Hosted Bot Management Platform with Docker, FastAPI and React](https://dev.to/tanwydd/building-a-self-hosted-bot-management-platform-with-docker-fastapi-and-react-4pdj)
+- [Why Playwright Gets You Blocked Even With Proxies](https://dev.to/tanwydd/why-playwright-gets-you-blocked-even-with-proxies-3h2a)
 
 ### ⚡ Fun Facts
 
