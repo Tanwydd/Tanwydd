@@ -4,7 +4,7 @@
 
 > I build systems that work in adversarial environments — browser automation that evades detection, voice forensics that catches deepfakes, and infrastructure that doesn't break at 3AM. Open to relocation.
 >
-> With 7+ years of experience across full-stack development and systems administration, I specialize in building production-grade tools that operate reliably under pressure: hardened APIs, containerized deployments, anti-detection automation, and biometric security systems. I've shipped everything from OWASP ASVS L3-compliant voice biometric platforms to real-time bot management dashboards and ZKTeco access control systems — mostly in environments where failure isn't an option.
+> With 8+ years of experience across full-stack development and systems administration, I specialize in building production-grade tools that operate reliably under pressure: hardened APIs, containerized deployments, anti-detection automation, and biometric security systems. I've shipped everything from OWASP ASVS L3-compliant voice biometric platforms to real-time bot management dashboards and ZKTeco access control systems — mostly in environments where failure isn't an option.
 
 ---
 
@@ -81,7 +81,7 @@
 
 Desarrollador afincado en Andalucía. Construyo aplicaciones web, infraestructura de automatización, sistemas anti-detección y herramientas forenses — principalmente cosas que tienen que funcionar de forma fiable en entornos hostiles. Abierto a reubicación.
 
-Con más de 7 años de experiencia en desarrollo full-stack y administración de sistemas, me especializo en construir herramientas de producción que aguantan bajo presión: APIs con hardening de seguridad, despliegues contenerizados, automatización anti-detección y sistemas de seguridad biométrica. He entregado desde plataformas de biometría de voz conformes con OWASP ASVS L3 hasta dashboards de gestión de bots en tiempo real y sistemas de control de acceso ZKTeco — en su mayoría en entornos donde el fallo no es una opción.
+Con más de 8 años de experiencia en desarrollo full-stack y administración de sistemas, me especializo en construir herramientas de producción que aguantan bajo presión: APIs con hardening de seguridad, despliegues contenerizados, automatización anti-detección y sistemas de seguridad biométrica. He entregado desde plataformas de biometría de voz conformes con OWASP ASVS L3 hasta dashboards de gestión de bots en tiempo real y sistemas de control de acceso ZKTeco — en su mayoría en entornos donde el fallo no es una opción.
 
 ### 🚀 Proyectos Destacados
 
