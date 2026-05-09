@@ -2,72 +2,51 @@
 
 **Full-Stack Developer | Systems Admin | Browser Automation & Anti-detection | GNU-Linux**
 
-> I build systems that work in adversarial environments — browser automation that evades detection, voice forensics that catches deepfakes, and infrastructure that doesn't break at 3AM.
+> I build systems that work in adversarial environments — browser automation that evades detection, voice forensics that catches deepfakes, and infrastructure that doesn't break at 3AM. Open to relocation.
+>
+> With 7+ years of experience across full-stack development and systems administration, I specialize in building production-grade tools that operate reliably under pressure: hardened APIs, containerized deployments, anti-detection automation, and biometric security systems. I've shipped everything from OWASP ASVS L3-compliant voice biometric platforms to real-time bot management dashboards and ZKTeco access control systems — mostly in environments where failure isn't an option.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Automation**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![curl--cffi](https://img.shields.io/badge/curl--cffi-00599C?style=for-the-badge&logo=curl&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000080?style=for-the-badge&logo=almalinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Databases & Caching**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-**Security & Auth**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![LUKS](https://img.shields.io/badge/LUKS-EE0000?style=for-the-badge&logo=linux&logoColor=white)
-![AES--256](https://img.shields.io/badge/AES--256--GCM-333333?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-**Monitoring**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**ML / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
+![curl--cffi](https://img.shields.io/badge/curl--cffi-00599C?style=flat-square&logo=curl&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000080?style=flat-square&logo=almalinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![LUKS](https://img.shields.io/badge/LUKS-EE0000?style=flat-square&logo=linux&logoColor=white)
+![AES--256](https://img.shields.io/badge/AES--256--GCM-333333?style=flat-square&logo=letsencrypt&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanwydd&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanwydd&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanwydd&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
@@ -100,9 +79,9 @@
 
 <br>
 
-Desarrollador afincado en Andalucía. Construyo sitios web, infraestructura de automatización, sistemas anti-detección y herramientas forenses — principalmente cosas que tienen que funcionar de forma fiable en entornos hostiles.
+Desarrollador afincado en Andalucía. Construyo aplicaciones web, infraestructura de automatización, sistemas anti-detección y herramientas forenses — principalmente cosas que tienen que funcionar de forma fiable en entornos hostiles. Abierto a reubicación.
 
-Actualmente trabajando en automatización de navegador que pasa desapercibida, biometría de voz con detección de deepfakes, y gestión de bots para entornos de contact center.
+Con más de 7 años de experiencia en desarrollo full-stack y administración de sistemas, me especializo en construir herramientas de producción que aguantan bajo presión: APIs con hardening de seguridad, despliegues contenerizados, automatización anti-detección y sistemas de seguridad biométrica. He entregado desde plataformas de biometría de voz conformes con OWASP ASVS L3 hasta dashboards de gestión de bots en tiempo real y sistemas de control de acceso ZKTeco — en su mayoría en entornos donde el fallo no es una opción.
 
 ### 🚀 Proyectos Destacados
 
@@ -111,12 +90,6 @@ Actualmente trabajando en automatización de navegador que pasa desapercibida, b
 - [**BotFarm**](#) — Plataforma de gestión de bots Python sobre Docker/Podman con dashboard FastAPI + React. Cifrado AES-256-GCM, JWT, streaming de logs en tiempo real. Construida para automatización de contact center a escala.
 - [**tornoBot**](#) — Sistema de monitorización y sincronización de tornos biométricos ZKTeco. Threading por dispositivo, scheduling DST-safe, protocolo ZK UDP-only, almacenamiento en MySQL.
 - [**CronShepherd**](#) — Gestor de crons remoto vía SSH en PHP + Alpine.js. Administra crontabs sin exponer acceso shell.
-
-### ⚡ Fun Facts
-
-- I build things designed to be invisible
-- GNU-Linux daily driver since forever
-- Based in Andalusia, working everywhere
 
 </details>
 
